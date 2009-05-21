@@ -8,7 +8,7 @@
 ;; $Date: 2004/05/14 17:23:50 $
 
 ;;; Commentary:
-; requires: lightning completion [ http://www.math.washington.edu/~palmieri/Emacs/light.html ]
+; requires: lightning completion [ https://github.com/jhpalmieri/ultratex/blob/master/lisp/light.el ]
 
 ; TODO:
 ; add 'check-for-new-version'
