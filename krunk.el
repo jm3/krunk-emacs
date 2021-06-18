@@ -1,7 +1,7 @@
 ;;; krunk.el -- bare-bones jsp mode
-;; copyleft (c) 2000 john manoogian III <jm3@jm3.net>
+;; copyleft (c) 2000 john manoogian III <jm3>
 
-;; Author: john manoogian III <jm3@jm3.net>
+;; Author: john manoogian III <jm3>
 ;; Created: July, 2000
 ;; Keywords: languages, JSP, HTML
 ;; $Revision: 1.1 $
@@ -85,10 +85,7 @@ was re-mapped to ctl-c tab.
 
 To Do: ???
 
-Comments, Compliments, Complaints:
-
-Please direct all of the above to the author:
-john manoogian III <jm3@jm3.net>.
+Comments, Compliments, Complaints: @jm3 on Twitter>.
 
 I hope that you enjoy krunk as much as i do."
 
